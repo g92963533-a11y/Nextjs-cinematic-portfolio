@@ -18,11 +18,11 @@ export const profile = {
 export const projects = [
   {
     name: "HubSmart",
-    category: "Web application",
+    category: "Featured project",
     description:
-      "A featured project. The live site is available, but its contents could not be inspected during this rebuild, so feature and technology details are intentionally left for you to verify.",
+      "The HubSmart site could not be inspected during this rebuild. Feature details and technology tags are intentionally omitted until they can be verified.",
     href: "https://v0-hubsmart.vercel.app/",
-    tags: ["Live project", "Details to verify"],
+    tags: ["Details to verify"],
     featured: true,
   },
   {
