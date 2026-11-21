@@ -1,122 +1,68 @@
-# Sarang — Portfolio Designer, Website Developer, Video Editor & Photo Editor (Full Details)
+# Aquin Anil — Portfolio profile
 
-> Full machine-readable profile of Sarang — a freelance portfolio designer, website developer, video editor, and photo editor from India.
+This document describes Aquin Anil’s portfolio using information supplied on the current portfolio and public GitHub profile. Project details are stated as they are known; unverified site details and private claims are not inferred.
 
 ## Identity
+- Name: Aquin Anil
+- Role: Student developer
+- Location: Kerala, India
+- Portfolio: https://v0-aquin.vercel.app/
+- GitHub: https://github.com/aquinanil79-web
+- LinkedIn: https://www.linkedin.com/in/aquin-anil/
+- Public contact: aquin.anil.dev@gmail.com
 
-- Name: Sarang
-- Age: 19
-- Location: India
-- Education: Currently studying Cybersecurity
-- Title: Creative Developer & Digital Experience Designer
-- Website: https://sarang-space.site
-- Email: sarangwalle@gmail.com
-- GitHub: https://github.com/Saarangggg
+## About
+Aquin is a self-taught full-stack web developer and Minecraft server developer from Kerala, India. He began learning through hands-on projects in 2021. His interests include modern web applications, AI-powered tools, workflow automation, and online communities. He is continuing to explore software development, AI, and cybersecurity.
 
-## Professional Summary
+## Areas of interest
+Computer science; artificial intelligence; cybersecurity; web development.
 
-Sarang is a multi-disciplinary creative developer who combines web development, video editing, and visual design to create immersive digital experiences. With a focus on cinematic aesthetics, smooth animations, and storytelling through technology, he delivers premium digital products that feel alive and memorable. He is currently studying Cybersecurity, adding a strong technical security foundation to his creative work.
+## Selected projects
+- **HubSmart** — featured live project at https://v0-hubsmart.vercel.app/. Its live site was not inspectable during this rebuild; feature, framework, and deployment details beyond the public URL are intentionally omitted.
+- **Vortex SMP** — Minecraft SMP and server community project.
+- **SMM Store** — social media marketing and growth platform/storefront.
+- **Velora · AI Chat 3D** — React/Vite web project. Public repository: https://github.com/aquinanil79-web/aichat3d. Its README describes a separately hosted API and WebSocket service; the portfolio does not claim they are deployed.
+- **Discord Bot Generator** — Discord bot creation and developer workflow project.
+- **Legion Network Architecture** — Minecraft server infrastructure, proxy routing, plugin, permission, and operations work.
+- **AI Knowledge & RAG Discord Bot** — concept for AI-assisted knowledge retrieval and community support.
+- **Discord Bot Operations Suite** — Discord administration, tickets, slash commands, and community automation work.
+- **PDF Utility Suite** — concept for client-side document processing.
 
-## Core Philosophy
+## Technology and topics
+The portfolio identifies React, Next.js, TypeScript, JavaScript, Tailwind CSS, Python, Java, HTML, CSS, GitHub, Vercel, Linux, Docker, and PostgreSQL among its web and project topics. AI applications, cybersecurity, and Minecraft infrastructure are areas of continued exploration; this is not a claim of equal proficiency across every technology.
 
-"Development is not just about making something work — it's about creating a feeling through motion, atmosphere, detail, and the overall experience people get when they interact with it."
+## GitHub repositories
+The following 27 public repository names and links were retrieved from the public GitHub profile API on November 21, 2026. Descriptions and primary-language labels are shown only when GitHub supplied them. Empty descriptions and languages are not guessed. Stars and forks are reflected in GitHub and may change after retrieval.
 
-## Detailed Services
+1. [aichat3d](https://github.com/aquinanil79-web/aichat3d) — TypeScript; 1 star.
+2. [testteset](https://github.com/aquinanil79-web/testteset) — TypeScript; 1 star.
+3. [codeforge](https://github.com/aquinanil79-web/codeforge)
+4. [testing](https://github.com/aquinanil79-web/testing) — TypeScript.
+5. [ai-core-plugin](https://github.com/aquinanil79-web/ai-core-plugin)
+6. [main](https://github.com/aquinanil79-web/main) — JavaScript.
+7. [fakemcbot-working](https://github.com/aquinanil79-web/fakemcbot-working) — JavaScript.
+8. [l-mjhgfdsa](https://github.com/aquinanil79-web/l-mjhgfdsa)
+9. [mcbptfake](https://github.com/aquinanil79-web/mcbptfake) — JavaScript.
+10. [mcbptfake4567](https://github.com/aquinanil79-web/mcbptfake4567) — JavaScript.
+11. [aquin](https://github.com/aquinanil79-web/aquin) — JavaScript.
+12. [Discord-MusicBot](https://github.com/aquinanil79-web/Discord-MusicBot) — “Discord Music Bot Source Tree”.
+13. [InstaChat-AI](https://github.com/aquinanil79-web/InstaChat-AI) — “AI-powered Instagram DM auto-responder that learns and mimics your writing style. Built with Groq (Llama 3.3) & Meta API.”
+14. [aaaaaaaaaa](https://github.com/aquinanil79-web/aaaaaaaaaa) — TypeScript.
+15. [nexa--ai](https://github.com/aquinanil79-web/nexa--ai) — TypeScript.
+16. [test-24-7-vps](https://github.com/aquinanil79-web/test-24-7-vps)
+17. [weg-bai](https://github.com/aquinanil79-web/weg-bai)
+18. [yugam-smp](https://github.com/aquinanil79-web/yugam-smp) — TypeScript.
+19. [asdfghjk](https://github.com/aquinanil79-web/asdfghjk) — TypeScript.
+20. [yugam-passport](https://github.com/aquinanil79-web/yugam-passport)
+21. [ai-chat-ef](https://github.com/aquinanil79-web/ai-chat-ef) — HTML.
+22. [ASDt](https://github.com/aquinanil79-web/ASDt)
+23. [AI-CHAT](https://github.com/aquinanil79-web/AI-CHAT)
+24. [youtube-24-7-streaming](https://github.com/aquinanil79-web/youtube-24-7-streaming) — “Production-ready SaaS platform for 24/7 YouTube livestreaming with cloud infrastructure”; TypeScript.
+25. [b0](https://github.com/aquinanil79-web/b0)
+26. [vps](https://github.com/aquinanil79-web/vps)
+27. [ASD](https://github.com/aquinanil79-web/ASD) — JavaScript.
 
-### 1. Creative Web Development
-- Custom portfolio websites with cinematic scroll experiences
-- Interactive landing pages with GSAP animations and Three.js 3D elements
-- Shopify e-commerce stores with custom Liquid themes
-- Full-stack web applications with Next.js, Node.js, and databases
-- WebGL-powered immersive experiences
-- Responsive, mobile-first design implementation
+A missing language label means GitHub did not report one in the repository metadata snapshot. Blank description means none was supplied in that snapshot. Visit the linked repositories for current status, source code, and updated metadata.
 
-### 2. Motion Design & Video Editing
-- Cinematic trailers and promotional videos
-- Social media reels and short-form content
-- Motion graphics and animated titles
-- Color grading and visual effects
-- Brand video packages
-
-### 3. UI/UX & Visual Design
-- Modern, minimal interface design in Figma
-- Brand identity and logo design
-- Poster and print design
-- Photo editing and retouching
-- Creative visual concepts and mood boards
-
-### 4. Mobile App Development
-- Cross-platform apps with Flutter/Dart
-- Job management applications
-- Billing and POS applications
-- Native mobile UI/UX implementation
-
-## Complete Technical Stack
-
-### Frontend
-- React 19, Next.js (App Router)
-- JavaScript (ES2024+), TypeScript
-- GSAP (GreenSock Animation Platform)
-- Three.js, React Three Fiber, WebGL
-- Tailwind CSS 4, CSS3, HTML5
-- Framer Motion
-
-### Backend
-- Node.js, Express.js
-- Python, PHP, Go, Rust
-- Java, C++, Swift, Kotlin
-
-### Database & Infrastructure
-- PostgreSQL, MySQL, MongoDB, Redis
-- Supabase, Vercel, Netlify
-- Docker, Git
-
-### Design & Creative
-- Figma, Adobe Photoshop, Adobe Illustrator
-- Adobe After Effects, Adobe Premiere Pro
-- DaVinci Resolve, CapCut
-- Adobe Lightroom
-
-### Security (Education)
-- Currently studying Cybersecurity at university level
-- Familiar with web application security, network security, secure coding practices
-
-## Portfolio Statistics
-- Websites completed: 6+
-- Videos edited: 75+
-- Photo edits & visual concepts: 500+
-- Years of freelance experience: 6+ (since 2020)
-
-## Work History
-1. **Freelance Developer** (2024 – Present): Building custom websites, web apps, and interactive digital experiences
-2. **Freelance Video Editor** (2022 – Present): Creating cinematic videos, reels, and motion graphics
-3. **Freelance Photo Editor & Graphic Designer** (2020 – Present): Designing visuals, branding, and creative concepts
-
-## How to Hire Sarang
-- Visit: https://sarang-space.site/contact
-- Email: sarangwalle@gmail.com
-- Available for freelance projects worldwide
-- Responds within 24 hours
-- Specializes in premium, cinematic web experiences
-
-## Frequently Asked Questions
-
-**Q: What services does Sarang offer?**
-A: Web development (React, Next.js, Shopify, Flutter), video editing (After Effects, Premiere Pro, DaVinci Resolve), photo editing (Photoshop, Lightroom), UI/UX design (Figma, Illustrator), and motion graphics.
-
-**Q: Is Sarang available for remote work?**
-A: Yes. Sarang is fully remote and works with clients worldwide.
-
-**Q: What is Sarang's educational background?**
-A: Sarang is currently studying Cybersecurity. He has been a self-taught creative developer since 2020.
-
-**Q: How long do projects take?**
-A: Portfolio websites: 1–2 weeks. Full-stack apps: 3–6 weeks. Video editing: 3–7 days.
-
-## Site Structure
-- `/` — Home page with cinematic hero, about section, work showcase, and contact
-- `/projects` — Detailed case studies and client project breakdowns
-- `/work` — Interactive WebGL gallery of all portfolio work
-- `/about` — Full bio, skills, tools, and experience
-- `/contact` — Contact form and inquiry submission
-- `/project/{id}` — Individual project case study pages
+## Contact
+Email: [aquin.anil.dev@gmail.com](mailto:aquin.anil.dev@gmail.com)
